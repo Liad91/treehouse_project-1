@@ -78,7 +78,7 @@ body {
   padding: 15px 0;
 }
 #loadQuote:hover {
-  background-color: rgba(255,255,255,.25);
+  background-color: rgba(255,255,255,.25) !important;
 }
 #loadQuote:focus {
   outline: none;
